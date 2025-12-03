@@ -26,6 +26,7 @@ class CategoryCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(12),
             color: Colors.orangeAccent,
           ),
+          //any edit ok?
           child: ClipRRect(
             borderRadius: BorderRadius.circular(12),
             child: Stack(
